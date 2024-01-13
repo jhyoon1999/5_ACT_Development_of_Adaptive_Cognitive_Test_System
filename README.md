@@ -4,5 +4,5 @@
 
 <div align="center">
   <img src="image/paper_abstract.png" width="48%" />
-  <img src="image/merged_tree.png" width="48%" />
+  <img src="image/merged_tree.png" width="80%" />
 </div>
